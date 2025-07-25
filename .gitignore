@@ -1,0 +1,36 @@
+# Visual Studio build folders
+build/
+.vs/
+Debug/
+Release/
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.vcxproj.user
+
+# Logs and temp
+*.log
+*.tmp
+
+# Archives
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Documents
+*.pdf
+
+# CMake generated
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
