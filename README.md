@@ -1,10 +1,26 @@
 # TASA Sony A7 VI Remote Control, base on pre-built CRSDK
 
-支援控制 Sony Alpha 7 IV 快門、ISO、曝光排程的 Windows CLI 工具
+基於 Sony Remote SDK 的 C++ 指令列工具，用於控制 Sony Alpha 7 VI 相機進行拍攝參數自動化排程。
 - 支援 Exposure/ISO Loop 拍攝模式
 - 自動化參數設定與觸發
-- 使用 CR-SDK 2.0
+- 支援無線/有線連接
+- 使用 CR-SDK 2.0.0
 
+## 環境需求
+
+- 作業系統：Windows 10 / 11 (x64)
+- 編譯器：Visual Studio 2022
+- 相機：Sony Alpha 7M4（或支援 Sony Remote SDK 的型號）
+- Sony Remote SDK 2.0（已包含在本專案中）
+
+## 使用方法
+(better to the camera can communicate with your PC using Sony’s software before you start.)
+- 點擊頁面右方的 release
+- 下載第一個壓縮檔
+- 解壓縮後，即可使用資料夾內的 .exe 進行拍攝
+
+---
+# CR-SDK 原生 ReadMe
 Build from pre-built CRSDK binary files
 This package should have the following structure.
 
