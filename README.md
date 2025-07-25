@@ -1,5 +1,10 @@
 # Build from pre-built CRSDK binary files
 
+支援控制 Sony Alpha 7 IV 快門、ISO、曝光排程的 Windows CLI 工具
+- 支援 Exposure/ISO Loop 拍攝模式
+- 自動化參數設定與觸發
+- 使用 CR-SDK 2.0
+
 This package should have the following structure.
 
 ## Directory structure
