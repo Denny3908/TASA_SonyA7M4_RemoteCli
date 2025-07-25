@@ -10,8 +10,8 @@
 
 - 作業系統：Windows 10 / 11 (x64)
 - 編譯器：Visual Studio 2022
-- 相機：Sony Alpha 7M4（或支援 Sony Remote SDK 的型號）
-- Sony Remote SDK 2.0（已包含在本專案中）
+- 相機：Sony Alpha 7 M4（或支援 Sony Remote SDK 的型號）
+- Sony Remote SDK 2.0.O（已包含在本專案中）
 
 ## 使用方法
 (better to the camera can communicate with your PC using Sony’s software before you start.)
