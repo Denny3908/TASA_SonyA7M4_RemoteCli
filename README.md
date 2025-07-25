@@ -1,10 +1,11 @@
-# Build from pre-built CRSDK binary files
+# TASA Sony A7 VI Remote Control, base on pre-built CRSDK
 
 支援控制 Sony Alpha 7 IV 快門、ISO、曝光排程的 Windows CLI 工具
 - 支援 Exposure/ISO Loop 拍攝模式
 - 自動化參數設定與觸發
 - 使用 CR-SDK 2.0
 
+Build from pre-built CRSDK binary files
 This package should have the following structure.
 
 ## Directory structure
